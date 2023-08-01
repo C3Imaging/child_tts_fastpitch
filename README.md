@@ -9,7 +9,7 @@ We follow the Nvidia's implementation of Fastpitch available here: https://githu
 Additional training and usage details are provided in their Github. 
 
 ### Checkpoint to use the Fastpitch child TTS model: 
-Add here
+See the 'ckps' folder
 
 ### OneDrive link to Generated Datasets: 
 https://nuigalwayie-my.sharepoint.com/:f:/g/personal/0125225s_nuigalway_ie/EpWCo1kPOl9OhVC_4KXOfr4B1lv6KpQzgpgS7rI3d4FUog?e=t7Lfc5 
