@@ -12,4 +12,5 @@ Additional training and usage details are provided in their Github.
 See the 'ckps' folder
 
 ### OneDrive link to Generated Datasets: 
-https://nuigalwayie-my.sharepoint.com/:f:/g/personal/0125225s_nuigalway_ie/EpWCo1kPOl9OhVC_4KXOfr4B1lv6KpQzgpgS7rI3d4FUog?e=t7Lfc5 
+https://nuigalwayie-my.sharepoint.com/:f:/g/personal/0125225s_universityofgalway_ie/EpWCo1kPOl9OhVC_4KXOfr4B1lv6KpQzgpgS7rI3d4FUog
+
